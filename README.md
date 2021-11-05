@@ -8,4 +8,4 @@ This code is part of our paper titled *Knowledge Distillation approach in Melano
 
 [Dataset](https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main)
 
-<img src ="https://github.com/Shakib-IO/KD-lesions/blob/main/figures/Figure%2005.png", width = 100px>
+<img src ="https://github.com/Shakib-IO/KD-lesions/blob/main/figures/Figure%2005.png">
