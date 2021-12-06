@@ -11,3 +11,7 @@ This code is part of our paper titled *Knowledge Distillation approach in Melano
 <img src ="https://github.com/Shakib-IO/KD-lesions/blob/main/figures/Figure%2005.png" width="400">
 
 --
+
+**Result**
+<img src ="ttps://github.com/Shakib-IO/KD-lesions/blob/main/figures/Table%2002.png" width="500">
+
