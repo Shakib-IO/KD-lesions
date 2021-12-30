@@ -12,7 +12,7 @@ This code is part of our paper titled *Knowledge Distillation approach in Melano
 
 ---
 
-**Result**
+> **Result**
 
 <img src ="https://github.com/Shakib-IO/KD-lesions/blob/main/figures/Table%2002.png" width="900">
 
