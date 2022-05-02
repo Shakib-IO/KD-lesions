@@ -1,4 +1,4 @@
-# Knowledge Distillation approach in Melanoma Detection
+# Knowledge Distillation approach towards Melanoma Detection
 
 **An approach to transferring knowledge to less trainable parameters**
 
