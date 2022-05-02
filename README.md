@@ -12,11 +12,7 @@ Authors: Md. Shakib Khan, Kazi Nabiul Alam, Abdur Rab Dhruba, Hasib Zunair, Nabe
 
 <img src = "https://github.com/Shakib-IO/KD-lesions/blob/main/figures/Dataset.png" width = "500">
 
-**Citation**
-If you use this code or models in your scientific work, please cite the following paper:
-```Will be added here```
-
-**Major Requirements**
+## Major Requirements
 This code requires
 
 - Python: 3.7
@@ -24,15 +20,18 @@ This code requires
 - Keras: 2.3.1
 - OpenCV: 4.1.0
 
-**Training and Testing**
-- Download the [Dataset](https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main) from ISIC 2017 challenge.
-- Load the dataset from local drive
-- Train the ```Teacher&Student``` Model
-- Run the pretrained models
-
-
+## Training and Testing
+- Download the [Dataset](https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main) from ISIC challenge.
+- Load the dataset from local drive.
+- Train the ```Teacher&Student``` Model.
+- Run the pretrained models.
 
 ## Result
-We report the accuracy on the ISIC 2016 test set.
-<img src ="https://github.com/Shakib-IO/KD-lesions/blob/main/figures/Table%2002.png" width="700">
+We report the training, testing time and accuracy on the ISIC test set.
+<img src ="https://github.com/Shakib-IO/KD-lesions/blob/main/figures/Table%2002.png" width="800">
+
+## Citation
+If you use this code or models in your scientific work, please cite the following paper:
+
+```Will be added here```
 
