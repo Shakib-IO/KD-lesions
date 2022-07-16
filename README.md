@@ -33,7 +33,8 @@ We report the training, testing time and accuracy on the ISIC test set.
 ## Citation
 If you use this code or models in your scientific work, please cite the following paper:
 
-```@article{KHAN2022105581,
+```
+@article{KHAN2022105581,
 title = {Knowledge distillation approach towards melanoma detection},
 author = {Md Shakib Khan and Kazi Nabiul Alam and Abdur Rab Dhruba and Hasib Zunair and Nabeel Mohammed}
 journal = {Computers in Biology and Medicine},
@@ -41,5 +42,6 @@ volume = {146},
 pages = {105581},
 year = {2022},
 issn = {0010-4825}
+}
 ```
 
