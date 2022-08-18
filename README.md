@@ -21,7 +21,7 @@ This code requires
 - OpenCV: 4.1.0
 
 ## Training and Testing
-- Download the [Dataset]() from [ISIC](https://www.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery)Database.
+- Download the [Dataset]() from [ISIC](https://www.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery) Database.
 - Load the dataset from local drive.
 - Train the ```Teacher&Student``` Model.
 - Run the pretrained models.
