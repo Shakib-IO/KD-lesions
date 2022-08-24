@@ -1,4 +1,4 @@
-# Knowledge Distillation approach towards Melanoma Detection
+# [Knowledge Distillation approach towards Melanoma Detection](https://www.sciencedirect.com/science/article/abs/pii/S0010482522003730?via%3Dihub)
 
 ## Build a model with few parameters that can accurately detect Melanoma
 
