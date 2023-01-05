@@ -21,9 +21,9 @@ This code requires
 - OpenCV: 4.1.0
 
 ## Training and Testing
-- Download the [Dataset](https://drive.google.com/drive/u/2/folders/1gxzsQ5QagPxtHXCJVfyaGvvJ3MV2nxXz)
+- Download the dataset from [drive](https://drive.google.com/drive/u/2/folders/1gxzsQ5QagPxtHXCJVfyaGvvJ3MV2nxXz) or [Gihub Releases](https://github.com/Shakib-IO/KD-lesions/releases/tag/V1.0)
 - The [ISIC](https://www.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery) Database.
-- Load the dataset from local drive.
+- Load the dataset.
 - Train the ```Teacher&Student``` Model.
 - Run the pretrained models.
 
